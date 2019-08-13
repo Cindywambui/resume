@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+aside{
+    float: right;
+    
+     margin-bottom: -200px;
+}
+.container {
+    margin: 0px auto;
+    width: 800px;
+}
